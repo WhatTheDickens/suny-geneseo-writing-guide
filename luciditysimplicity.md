@@ -1,3 +1,5 @@
+[]()
+
 Lucidity, simplicity, directness
 --------------------------------
 
@@ -18,7 +20,7 @@ Strunk may have been remembering Edgar Allan Poe's 1842 description of
 "Every word *tells,*" Poe noted admiringly, "and there is not a word
 which does *not* tell."
 
-Good advice, whatever the source. For as Alexander Pope observed
+[]()Good advice, whatever the source. For as Alexander Pope observed
 more than a century before Poe's review, "Words are like leaves; and
 where they most abound,/Much fruit of sense beneath is rarely found."
 
@@ -28,7 +30,7 @@ by multiplying words. Others mistakenly believe that simple prose
 reflects simplistic thinking. (More than a few academics share this
 prejudice.)
 
-### Wordiness and redundancy
+### []()Wordiness and redundancy
 
 You can tighten wordy prose quickly by replacing certain unwieldy
 phrases with single-word equivalents. For example, replace "due to the
@@ -36,7 +38,7 @@ fact that" with "because" or "since." (For more examples, see
 [Strunk](http://www.bartleby.com/141/strunk5.html#13).)
 
 With practice, you can develop an eye for the subtler forms of
-redundancy. A journalist describes evidence regarding a missing
+[]()redundancy. A journalist describes evidence regarding a missing
 person that was "sufficient enough" for police to call off their search.
 Obviously, "sufficient" would have sufficed. A student writes, "The
 reason the framers adopted a Bill of Rights was because they wanted to
@@ -55,7 +57,7 @@ character of Huck faces a moral dilemma." Since the reader knows that
 have simply written, "In Mark Twain's *Huckleberry Finn,* Huck faces a
 moral dilemma."
 
-For a dramatic sense of the difference revision makes, you might try
+[]()For a dramatic sense of the difference revision makes, you might try
 computing the **Lard Factor** in a few of your sentences. (The term
 comes from Richard Lanham's excellent book *Revising Prose.*) After
 revising a sentence, subtract the number of words in the revised version
@@ -74,7 +76,7 @@ Imagination](?pg=topics/careimagination.html#rhythm) and
 numbers alone mean little. It's not *many* words but *unnecessary* words
 that obscure meaning and make prose leaden.
 
-### Sentence structure and verb choice
+### []()Sentence structure and verb choice
 
 Make the chief actor in each sentence the **subject** of the sentence,
 and put the chief action in the **predicate** (main verb). Look again at
