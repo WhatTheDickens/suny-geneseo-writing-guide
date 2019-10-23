@@ -4,4 +4,4 @@
 
 Future revisions to *The Guide* will take place here and tested on *The Guide*'s [GitHub pages site](https://whatthedickens.github.io/suny-geneseo-writing-guide).  
 
-## Test texts
+## better stuff
