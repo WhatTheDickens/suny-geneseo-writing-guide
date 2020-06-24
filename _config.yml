@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               The Guide
 tagline:             SUNY Geneseo Writing Guide
-url:                 https://paulschacht.net
+url:                 https://paulschacht.net/suny-geneseo-writing-guide
 paginate:            1
 baseurl:             https://paulschacht.net/suny-geneseo-writing-guide
 
