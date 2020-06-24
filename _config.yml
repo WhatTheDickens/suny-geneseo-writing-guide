@@ -1,9 +1,9 @@
 # Setup
 title: The Guide
 tagline: SUNY Geneseo Writing Guide
-url: https://getpoole.com
+url: https://paulschacht.net
 paginate: 1
-baseurl: ""
+baseurl: https://paulschacht.net/suny-geneseo-writing-guide
 permalink: pretty
 
 # Gems
@@ -39,3 +39,8 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+
+#########
+
+
