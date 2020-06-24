@@ -1,7 +1,7 @@
-[]()
-
-Lucidity, simplicity, directness
---------------------------------
+---
+layout: page
+title: Lucidity and Simplicity
+---
 
 "Vigorous writing," wrote William Strunk, Jr. in the first (1918)
 edition of that now classic manual, *[The Elements of

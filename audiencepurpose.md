@@ -1,5 +1,7 @@
-Audience and purpose
---------------------
+---
+layout: page
+title: Audience and Purpose
+---
 
 "What will I say?" is probably the most important - and the most
 challenging - question that any writer faces. But other questions, too,

@@ -1,5 +1,7 @@
-Organization
-------------
+---
+layout: page
+title: Organization
+---
 
 A persuasive essay contains
 
