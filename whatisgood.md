@@ -23,9 +23,9 @@ Kurtz (who is not to be admired for much else), a good writer has
 something to say and says it. More specifically, good writing
 
 -   [reveals the author's clear sense of audience and
-    purpose](/audiencepurpose);
--   [is well organized](/organization);
--   [is lucid, simple, and direct](/luciditysimplicity);
+    purpose](/suny-geneseo-writing-guide/audiencepurpose);
+-   [is well organized](/suny-geneseo-writing-guide/organization);
+-   [is lucid, simple, and direct](/suny-geneseo-writing-guide/luciditysimplicity);
 -   [exhibits care and imagination in the arrangement of words,
     sentences, and ideas](careimagination.html);
 -   [follows appropriate conventions](conventions).
