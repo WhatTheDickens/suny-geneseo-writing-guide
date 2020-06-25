@@ -1,7 +1,7 @@
 # Setup
 title:               The Guide
 tagline:             'SUNY Geneseo Writing Guide'
-description:         'Using Lanyon, a reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'This site uses Lanyon, a reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://paulschacht.net/suny-geneseo-writing-guide
 baseurl:             ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Paul Schacht
-  url:               https://twitter.com/mdo
+  url:               https://twitter.com/WhatTheDickens
   email:             schacht@geneseo.edu
 
 # Gems

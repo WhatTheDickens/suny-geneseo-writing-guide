@@ -4,7 +4,7 @@ title: What is Good Writing?
 ---
 
 *That is the reason why I affirm that Kurtz was a remarkable man. He had
-something to say. He said it.\
+something to say. He said it.
 --Joseph Conrad,* Heart of Darkness
 
 Good writing takes many forms. A good letter, a good novel, a good poem,
@@ -23,10 +23,9 @@ Kurtz (who is not to be admired for much else), a good writer has
 something to say and says it. More specifically, good writing
 
 -   [reveals the author's clear sense of audience and
-    purpose](audiencepurpose.html);
--   [is well organized](organization.html);
--   [is lucid, simple, and direct](luciditysimplicity.html);
+    purpose](/audiencepurpose);
+-   [is well organized](/organization);
+-   [is lucid, simple, and direct](/luciditysimplicity);
 -   [exhibits care and imagination in the arrangement of words,
     sentences, and ideas](careimagination.html);
--   [follows appropriate conventions](conventions.html).
-
+-   [follows appropriate conventions](conventions).
