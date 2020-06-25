@@ -1,30 +1,22 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
-
 # Setup
 title:               The Guide
-tagline:             SUNY Geneseo Writing Guide
-url:                 https://paulschacht.net/suny-geneseo-writing-guide
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+tagline:             'SUNY Geneseo Writing Guide'
+description:         'Using Lanyon, a reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://paulschacht.net
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
   name:              Paul Schacht
-  url:               https://twitter.com/whatthedickens
+  url:               https://twitter.com/mdo
   email:             schacht@geneseo.edu
 
+# Gems
+plugins:
+  - jekyll-paginate
+
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/WhatTheDickens/suny-geneseo-writing-guide
+version:             1.1.0
+google_analytics_id: UA-146052-15
