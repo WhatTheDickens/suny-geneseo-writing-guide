@@ -1,0 +1,35 @@
+toc:
+  - title: Principles
+    subfolderitems:
+      - page: What is good writing?
+        url: /principles/what-is-good-writing
+      - page: Audience and purpose
+        url: /principles/audience-and-purpose
+      - page: Organization
+        url: /principles/organization
+      - page: Care and imagination
+        url: /principles/care-and-imagination
+      - page: Lucidity, simplicity, directness
+        url: /principles/lucidity-simplicity-directness
+      - page: Myths about good writing
+        url: /principles/myths-about-good-writing
+  - title: Conventions
+    subfolderitems:
+      - page: Conventions of writing
+        url: /conventions/conventions-of-writing
+      - page: Formal and informal writing
+        url: /conventions/formal-and-informal-writing
+      - page: Research and writing
+        url: /conventions/research-and-writing
+      - page: Writing in a discipline
+        url: /conventions/writing-in-a-discipline
+      - page: Grammar and usage
+        url: /conventions/grammar-and-usage
+      - page: Common errors
+        url: /conventions/common-errors
+  - title: Process
+    subfolderitems:
+      - page: Writing outside the classroom
+        url: /process/writing-outside-the-classroom
+      - page: Writing exam essays
+        url: /process/writing-exam-essays

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The Guide</title>
+ <link href="http://localhost:4000/suny-geneseo-writing-guide/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/suny-geneseo-writing-guide/"/>
+ <updated>2022-01-01T17:59:23-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Paul Schacht and Celia Easton</name>
+   <email>cdl@geneseo.edu</email>
+ </author>
+
+ 
+
+</feed>

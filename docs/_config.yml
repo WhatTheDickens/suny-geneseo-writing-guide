@@ -1,0 +1,68 @@
+# Built with Jekyll 3.6.0
+
+# Setup
+title:               The Guide
+tagline:             SUNY Geneseo's writing guide
+description:         'Guide for students at SUNY Geneseo'
+url:                 'http://whatthedickens.github.io'
+baseurl:             '/suny-geneseo-writing-guide'
+
+# About/contact
+author:
+  name:              Paul Schacht and Celia Easton
+  url:               https://twitter.com/whatthedickens
+  email:             cdl@geneseo.edu
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme:
+
+# Permalinks
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts - adding in some testing ones, who - what - why
+collections:
+  texts:
+    output: true
+  principles:
+    output: true
+  conventions:
+    output: true
+  process:
+    output: true
+  
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
+
+# Theme
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."
+
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
