@@ -17,7 +17,7 @@ You may have been taught to follow one or more of the rules below by a well-inte
 
 ## "Never start a sentence with *But* or *And.*"
 
-But what about [Lincoln](http://writingguide.geneseo.edu/gettys.html)? "But, in a larger sense, we can not dedicate - we can not consecrate - we can not hallow - this ground." And what about the King James Bible? "And the evening and the morning were the first day."
+But what about <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Lincoln</a>? "But, in a larger sense, we can not dedicate&mdash;we can not consecrate&mdash;we can not hallow&mdash;this ground." And what about the King James Bible? "And the evening and the morning were the first day."
 
 If you do begin a sentence with one of these conjunctions, we recommend that you follow it with a comma *only* if a modifying element intervenes between the conjunction and the subject of the sentence. In Lincoln's sentence, **in a larger sense** is such a modifying element. Without it, the sentence should begin, "But we can not dedicate." Don't write "But, we can not dedicate."
 
@@ -25,7 +25,7 @@ If you do begin a sentence with one of these conjunctions, we recommend that you
 
 ## "Never end a sentence with a preposition."
 
-Ending with a preposition does occasionally rob you of the opportunity to come down on a strong word. (See [Care and Imagination](?pg=topics/careimagination.html) and [Strunk](http://www.bartleby.com/141/strunk.html#18).) The same holds for a clause within a sentence. Imagine [Lincoln](http://writingguide.geneseo.edu/gettys.html) writing, "that from these honored dead we take increased devotion to that cause **which they gave the last full measure of devotion for.**"
+Ending with a preposition does occasionally rob you of the opportunity to come down on a strong word. (See [Care and Imagination]({{ site.baseurl}}/principles/care-and-imagination) and [Strunk](http://www.bartleby.com/141/strunk.html#18).) The same holds for a clause within a sentence. Imagine <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Lincoln</a> writing, "that from these honored dead we take increased devotion to that cause **which they gave the last full measure of devotion for.**"
 
 There is, however, no grammatical prohibition against ending with a preposition, and in some situations advancing the preposition to mid-sentence causes weird distortions, a point illustrated by Winston Churchill's waggish reference to "the sort of thing up with which I will not put."
 
@@ -37,21 +37,21 @@ The important thing to remember is *not to put the preposition in both places.* 
 
 The linguist David Crystal rightly notes that the original *Star Trek* television series would have lost something if the mission of the *Enterprise* had been, "Boldly to go where no man has gone before." Crystal observes that **To boldly go** has an iambic, and therefore more natural, not to say poetic, rhythm.
 
-Let rhythm and sense be your guides with infinitives. You certainly shouldn't split them if doing so makes the sentence hard to follow, as in H.W. Fowler's example: "\[The book's\] main idea is **to** historically, even while events are maturing, and divinely - from the Divine point of view - **impeach** the European system of Church and States."
+Let rhythm and sense be your guides with infinitives. You certainly shouldn't split them if doing so makes the sentence hard to follow, as in H.W. Fowler's example: "\[The book's\] main idea is **to** historically, even while events are maturing, and divinely&mdash;from the Divine point of view&mdash;**impeach** the European system of Church and States."
 
 <span id="length"></span>
 
 ## "The only good sentence is a short sentence."
 
-The 81-word final sentence of Lincoln's [Gettysburg Address](http://writingguide.geneseo.edu/gettys.html) illustrates the wrongheadedness of this assumption. So does the 181-word sentence that introduces Stephen Blackpool in Charles Dickens's *Hard Times*:
+The 81-word final sentence of Lincoln's <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Gettysburg Address</a> illustrates the wrongheadedness of this assumption. So does the 181-word sentence that introduces Stephen Blackpool in Charles Dickens's *Hard Times*:
 
-> In the hardest working part of Coketown; in the innermost fortifications of that ugly citadel, where Nature was as strongly bricked out as the killing airs and gases were bricked in; at the heart of the labyrinth of narrow courts upon courts, and close streets upon streets, which had come into existence piecemeal, every piece in a violent hurry for some one man's purpose, and the whole an unnatural family, shouldering and trampling, and pressing one another to death; in the last close nook of this great exhausted receiver, where the chimneys, for want of air to make a draught, were built in an immense variety of stunted and crooked shapes, as though every house put out a sign of the kind of people who might be expected to be born in it; among the multitude generically called "the Hands," - a race who would have found more favor with some people, if Providence had seen fit to make them only hands, or, like the lower creatures of the seashore, only hands and stomachs - **lived** a certain **Stephen Blackpool**, forty years of age.
+> In the hardest working part of Coketown; in the innermost fortifications of that ugly citadel, where Nature was as strongly bricked out as the killing airs and gases were bricked in; at the heart of the labyrinth of narrow courts upon courts, and close streets upon streets, which had come into existence piecemeal, every piece in a violent hurry for some one man's purpose, and the whole an unnatural family, shouldering and trampling, and pressing one another to death; in the last close nook of this great exhausted receiver, where the chimneys, for want of air to make a draught, were built in an immense variety of stunted and crooked shapes, as though every house put out a sign of the kind of people who might be expected to be born in it; among the multitude generically called "the Hands,"&mdash;a race who would have found more favor with some people, if Providence had seen fit to make them only hands, or, like the lower creatures of the seashore, only hands and stomachs&mdash;**lived** a certain **Stephen Blackpool**, forty years of age.
 
 This sentence is perfectly grammatical (it is not a run-on), is perfectly clear, and should try the patience only of a reader whose attention span does not exceed a typical segment of *Sesame Street.*
 
-In fact, the sentence is grammatically simple, with subject and predicate (highlighted) reversed yet in close proximity. Its long string of prepositional phrases (**In the . . . in the . . . at the heart of . . . in the**) filled out with relative and adverbial clauses, isn't gratuitous but a powerful verbal recreation of the "labyrinth" that leads to Stephen Blackpool's cramped and airless slum home - itself a symbol of the suffocating life lived by workers in early industrial England.
+In fact, the sentence is grammatically simple, with subject and predicate (highlighted) reversed yet in close proximity. Its long string of prepositional phrases (**In the . . . in the . . . at the heart of . . . in the**) filled out with relative and adverbial clauses, isn't gratuitous but a powerful verbal recreation of the "labyrinth" that leads to Stephen Blackpool's cramped and airless slum home&mdash;itself a symbol of the suffocating life lived by workers in early industrial England.
 
-Dickens, worried about the effect of such a life both on the individuals forced to live it and on society as a whole, knew perfectly well how to make his point in a short sentence, as when he wrote, later in *Hard Times*: "All closely imprisoned forces rend and destroy." But the earlier sentence is the fuse that makes the later one explode. As explained in the section on [Care and Imagination](?pg=topics/careimagination.html), good writers know how to vary the lengths of sentences for maximum effect.
+Dickens, worried about the effect of such a life both on the individuals forced to live it and on society as a whole, knew perfectly well how to make his point in a short sentence, as when he wrote, later in *Hard Times*: "All closely imprisoned forces rend and destroy." But the earlier sentence is the fuse that makes the later one explode. As explained in the section on [Care and Imagination]({{ site.baseurl }}/principles/care-and-imagination), good writers know how to vary the lengths of sentences for maximum effect.
 
 <span id="hopefully"></span>
 
@@ -63,7 +63,7 @@ Dickens, worried about the effect of such a life both on the individuals forced 
 
 ## "Never use the passive voice."
 
-Read through *The Guide* carefully, and you will find it has been used now and then. As explained in the section on [Lucidity, Simplicity, Directness](?pg=topics/luciditysimplicity.html#passive), the active voice generally feels livelier to a reader, and the passive can be an invitation to avoid responsibility. However, the passive voice can be a means of varying sentence patterns, and at times, as [Strunk](http://www.bartleby.com/141/strunk.html#11) demonstrates, it makes the best sense. Its capacity for omitting agency may seem a boon to the speaker or writer even when it draws justified accusations of cowardice from listeners or readers. President Reagan had good reason to be grateful for the passive voice after the Iran-Contra scandal: "Mistakes were made," he said.
+Read through *The Guide* carefully, and you will find it has been used now and then. As explained in the section on [Lucidity, Simplicity, Directness]({{ site.baseurl }}/principles/lucidity-simplicity-directness#passive), the active voice generally feels livelier to a reader, and the passive can be an invitation to avoid responsibility. However, the passive voice can be a means of varying sentence patterns, and at times, as [Strunk](http://www.bartleby.com/141/strunk.html#11) demonstrates, it makes the best sense. Its capacity for omitting agency may seem a boon to the speaker or writer even when it draws justified accusations of cowardice from listeners or readers. President Reagan had good reason to be grateful for the passive voice after the Iran-Contra scandal: "Mistakes were made," he said.
 
 <span id="thatwhich"></span>
 
@@ -88,7 +88,7 @@ Not many people know the difference between a restrictive and a nonrestrictive e
 > > \(3\) Philandering presidents who abuse their office should be impeached.  
 > > (4) Philandering presidents, who abuse their office, should be impeached.
 >
-> The writer of (3) only wishes to impeach *some* philandering presidents - those who abuse their office. This writer believes either that philandering doesn't constitute an abuse of office, or, more likely, that only particular kinds of philandering do so. On the other hand, the writer of (4) clearly sees philandering as an abuse in itself and sufficient cause for impeachment. This writer asserts that *all* philandering presidents should be impeached. Removing the four words **who abuse their office** would radically alter the meaning of (3); it would diminish the information offered in (4) without affecting the essential meaning.
+> The writer of (3) only wishes to impeach *some* philandering presidents&mdash;those who abuse their office. This writer believes either that philandering doesn't constitute an abuse of office, or, more likely, that only particular kinds of philandering do so. On the other hand, the writer of (4) clearly sees philandering as an abuse in itself and sufficient cause for impeachment. This writer asserts that *all* philandering presidents should be impeached. Removing the four words **who abuse their office** would radically alter the meaning of (3); it would diminish the information offered in (4) without affecting the essential meaning.
 >
 > ### The Myth Considered
 >
