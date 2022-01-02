@@ -2,7 +2,7 @@
 
 # Setup
 title:               🧭 The Guide 
-tagline:             SUNY Geneseo's writing guide
+tagline:             SUNY Geneseo&rsquo;s Writing Guide
 description:         'Guide for students at SUNY Geneseo'
 url:                 'http://whatthedickens.github.io'
 baseurl:             '/suny-geneseo-writing-guide'
@@ -14,7 +14,7 @@ author:
   email:             cdl@geneseo.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: 
 
 # Permalinks
 permalink: pretty
