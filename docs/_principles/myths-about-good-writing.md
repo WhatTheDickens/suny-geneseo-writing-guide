@@ -115,7 +115,7 @@ The writer of (8) escapes using *that* twice in a short span. In this example, o
 
 ### Our Positions
 
-> To bring this long discussion to a close, we take the following positions:
+To bring this long discussion to a close, we take the following positions:
 
 -   Good writers may use either *that* or *which* for restrictive elements.
 -   Good writers should not use *that* for nonrestrictive elements, as in (5).

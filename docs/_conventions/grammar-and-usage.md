@@ -5,17 +5,17 @@ title: "Grammar and usage"
 
 This page covers the following topics:
 
--   [What is Grammar?](#grammar)
--   [Usage and Convention](#convention)
--   [Usage and the Long Run](#longrun)
--   [Reasons for Usage Preferences:](#reasons)
-    -   [Lucidity, Simplicity, Directness](#lsd)
+-   [What is grammar?](#grammar)
+-   [Usage and convention](#convention)
+-   [Usage and the long run](#longrun)
+-   [Reasons for usage preferences:](#reasons)
+    -   [Lucidity, simplicity, directness](#lsd)
     -   [Character](#character)
     -   [Aesthetics](#aesthetics)
 
 <span id="grammar"></span>
 
-## What is Grammar?
+## What is grammar?
 
 The **grammar** of any language is the set of underlying rules that make possible meaningful utterances in that language. You may think you know nothing about English grammar, but if you speak the language competently&mdash;if others understand you&mdash;you have, in fact, a detailed knowledge of English grammar. What you may lack is detailed knowledge *about* English grammar&mdash;knowledge, that is, about the systematic structure of the rules governing the language. You know how to combine nouns, verbs, and modifiers to create sentences, even if you couldn't define the terms *noun, verb,* and *modifier.*
 
