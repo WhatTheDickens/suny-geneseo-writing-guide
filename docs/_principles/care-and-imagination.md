@@ -37,36 +37,36 @@ The [conventions]({{ site.baseurl}}/conventions/conventions-of-writing) of diffe
 
 To see this point, let's look first at a familiar piece of good writing, Lincoln's <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">*Gettysburg Address*</a>. (Follow the link to open a new window with the full text of the address.) To be sure, few if any of your professors will ask you to write speeches, and the odds against a funeral oration are even longer. But the rhythms of good speechwriting are those of good writing generally--with a bit of exaggeration, which only makes them easier to see. We'll follow Lincoln's example with a humbler piece of writing, a single sentence from The New York *Times.*
 
-> ### *The Gettysburg Address*: Words
->
-> Lincoln's sentences vary widely in length, from 10 words to 81 words. When the sentences in a stretch of prose are nearly uniform in length, the resulting rhythm is monotonous.
->
-> The second paragraph of Lincoln's address not only varies sentence length but alternates between short sentences and long ones, with counts of 24, 10, 27, and 11. On top of this alternating rhythm, Lincoln sets up another rhythm based on repetition: he builds all four sentences in the paragraph around a short clause beginning with the pronoun **we: we are engaged, We are met, We have come, we should do this.** The first and third sentences add modifying elements (**testing whether ..., as a final resting place ...**). For variation, Lincoln puts the **we** clause right at the beginning of the first three sentences, then shifts it to the end in the fourth.
->
-> The document as a whole establishes yet another pattern, one of accumulation. The first paragraph contains 30 words, the second 72, the third 169: each paragraph roughly doubles the preceding one. The climactic final sentence is also the longest--at 81 words, nearly four times the average length of the nine preceding sentences (21).
->
-> That wind-up sentence has its own internal rhythms, some of which repeat earlier ones. There are four main **that** clauses (not counting **that these dead ...** ), each of which echoes the **we** clauses of the second paragraph (also picked up at the beginning of the last paragraph in **we can not dedicate&mdash;we can not consecrate&mdash;we can not hallow**). The sentence dramatically increases the pace of repetition in the last clause, where the roughly 17-word **that** cycle gives way to a three-word cycle: **of the people, by the people, for the people.**
->
-> ### *The Gettysburg Address*: Ideas
->
-> It's not only phrases, clauses, and sentences that establish interesting and exciting rhythms in the best prose. If you examine the Gettysburg Address closely, you'll discover a rhythm of *ideas.* The speech as a whole moves from conception and birth (**brought forth, conceived in liberty**), to rebirth (**a new birth of freedom**), to immortality (**shall not perish**). There are three geographical references: to America (**this continent**), to the battle site (**a great battle-field**), and to the planet (**the earth**). These references not only help give the speech coherence through repetition, they emphasize Lincoln's message that the Civil War (symbolized by the **great battle-field**) simultaneously tests America's self-conception (brought forth on **this continent**) and the future of democracy as a human ideal (which must not perish from **the earth**).
->
-> Finally, consider all those references to **we** in the Address. Together with the related pronouns **us**and **our** , these stand in repeated contrast to **they, their, those,** emphasizing the difference between the living participants standing on the ground of the cemetery and the slain soldiers buried beneath it. The difference cuts two ways: what **we say** is insignificant beside what **they did**, but since death has left **their** work **unfinished**, it is **for us the living** to complete it. By doing so, we can in fact dissolve the difference between us and them (and between our forefathers, ourselves, and future generations), realizing the goal of a greater **we**, not Lincoln and his audience but "we the people," whom government must be **of, by,** and **for**.
+### *The Gettysburg Address*: Words
 
-> ### The New York *Times*: Problem
->
-> An article on the Women's World Cup soccer tournament of 1999 contained the following sentence:
->
-> > Aarones has been the most productive **of** the Norwegians **in** the tournament **with** four goals, **with** only Brazil's Sissy and China's Sun Wen ahead **of** her **with** seven and five goals, respectively.
->
-> Although grammatically unobjectionable, the sentence has all the fleetness and grace of a forward with a torn achilles tendon. Why? The answer lies partly in the prepositions, highlighted in bold type. The sentence lurches from prepositional phrase to prepositional phrase; and because this repetition doesn't underscore parallel ideas (compare **of the people, by the people, for the people**), it seems pointless, awkward, and monotonous rather than forceful. Then there's the lameness of **respectively,** which sounds as though it belongs in a legal document rather than a sports report. (Notice that Lincoln takes pains to end his sentences with words he wants to emphasize: **equal, endure, live, advanced, earth.** Sometimes he has to shift around modifiers to do this; e.g., **so nobly advanced** rather than the more usual **advanced so nobly.** Try saying the second sentence of the speech out loud, substituting **can endure long** for **can long endure.** The emphasis is completely lost. See [Strunk](http://www.bartleby.com/141/strunk.html#18) for more examples of this principle.)
->
-> ### The New York *Times*: Solution
->
-> At the heart of the *Times* sentence lies a comparison, or really two: between Aarones and her fellow Norwegians, and among Aarones, Sissy, and Sun Wen. What the sentence needs, then, is a rhythm that calls attention to these comparisons:
->
-> > Aarones has four goals in the tournament, more than any of her fellow Norwegians and fewer only than Brazil's Sissy (seven) and China's Sun Wen (five).
->
-> The sentence now begins and ends with players' names, highlighting the three-player comparison, and it answers an initial **more than** with the parallel **fewer only than**, driving home both comparisons simultaneously. In its modest way, the revised sentence employs the same strategy as many of Lincoln's, that of expressing coordinate ideas in similar grammatical form. (For more on this strategy, including some additional commonplace examples, see [Strunk](http://www.bartleby.com/141/strunk.html#15).)
->
-> The revision, incidentally, cuts the number of prepositions by two-thirds (from 6 to 2) and the total number of words by almost one-fifth [(Lard Factor]({{ site.baseurl}}/principles/lucidity-simplicity-directness#lardfactor) = 6÷32 or 19%). As is generally the case, the aesthetically superior sentence is also clearer and more economical.
+Lincoln's sentences vary widely in length, from 10 words to 81 words. When the sentences in a stretch of prose are nearly uniform in length, the resulting rhythm is monotonous.
+
+The second paragraph of Lincoln's address not only varies sentence length but alternates between short sentences and long ones, with counts of 24, 10, 27, and 11. On top of this alternating rhythm, Lincoln sets up another rhythm based on repetition: he builds all four sentences in the paragraph around a short clause beginning with the pronoun **we: we are engaged, We are met, We have come, we should do this.** The first and third sentences add modifying elements (**testing whether ..., as a final resting place ...**). For variation, Lincoln puts the **we** clause right at the beginning of the first three sentences, then shifts it to the end in the fourth.
+
+The document as a whole establishes yet another pattern, one of accumulation. The first paragraph contains 30 words, the second 72, the third 169: each paragraph roughly doubles the preceding one. The climactic final sentence is also the longest--at 81 words, nearly four times the average length of the nine preceding sentences (21).
+
+That wind-up sentence has its own internal rhythms, some of which repeat earlier ones. There are four main **that** clauses (not counting **that these dead ...** ), each of which echoes the **we** clauses of the second paragraph (also picked up at the beginning of the last paragraph in **we can not dedicate&mdash;we can not consecrate&mdash;we can not hallow**). The sentence dramatically increases the pace of repetition in the last clause, where the roughly 17-word **that** cycle gives way to a three-word cycle: **of the people, by the people, for the people.**
+
+### *The Gettysburg Address*: Ideas
+
+It's not only phrases, clauses, and sentences that establish interesting and exciting rhythms in the best prose. If you examine the Gettysburg Address closely, you'll discover a rhythm of *ideas.* The speech as a whole moves from conception and birth (**brought forth, conceived in liberty**), to rebirth (**a new birth of freedom**), to immortality (**shall not perish**). There are three geographical references: to America (**this continent**), to the battle site (**a great battle-field**), and to the planet (**the earth**). These references not only help give the speech coherence through repetition, they emphasize Lincoln's message that the Civil War (symbolized by the **great battle-field**) simultaneously tests America's self-conception (brought forth on **this continent**) and the future of democracy as a human ideal (which must not perish from **the earth**).
+
+Finally, consider all those references to **we** in the Address. Together with the related pronouns **us**and **our** , these stand in repeated contrast to **they, their, those,** emphasizing the difference between the living participants standing on the ground of the cemetery and the slain soldiers buried beneath it. The difference cuts two ways: what **we say** is insignificant beside what **they did**, but since death has left **their** work **unfinished**, it is **for us the living** to complete it. By doing so, we can in fact dissolve the difference between us and them (and between our forefathers, ourselves, and future generations), realizing the goal of a greater **we**, not Lincoln and his audience but "we the people," whom government must be **of, by,** and **for**.
+
+### The New York *Times*: Problem
+
+An article on the Women's World Cup soccer tournament of 1999 contained the following sentence:
+
+> Aarones has been the most productive **of** the Norwegians **in** the tournament **with** four goals, **with** only Brazil's Sissy and China's Sun Wen ahead **of** her **with** seven and five goals, respectively.
+
+Although grammatically unobjectionable, the sentence has all the fleetness and grace of a forward with a torn achilles tendon. Why? The answer lies partly in the prepositions, highlighted in bold type. The sentence lurches from prepositional phrase to prepositional phrase; and because this repetition doesn't underscore parallel ideas (compare **of the people, by the people, for the people**), it seems pointless, awkward, and monotonous rather than forceful. Then there's the lameness of **respectively,** which sounds as though it belongs in a legal document rather than a sports report. (Notice that Lincoln takes pains to end his sentences with words he wants to emphasize: **equal, endure, live, advanced, earth.** Sometimes he has to shift around modifiers to do this; e.g., **so nobly advanced** rather than the more usual **advanced so nobly.** Try saying the second sentence of the speech out loud, substituting **can endure long** for **can long endure.** The emphasis is completely lost. See [Strunk](http://www.bartleby.com/141/strunk.html#18) for more examples of this principle.)
+
+### The New York *Times*: Solution
+
+At the heart of the *Times* sentence lies a comparison, or really two: between Aarones and her fellow Norwegians, and among Aarones, Sissy, and Sun Wen. What the sentence needs, then, is a rhythm that calls attention to these comparisons:
+
+> Aarones has four goals in the tournament, more than any of her fellow Norwegians and fewer only than Brazil's Sissy (seven) and China's Sun Wen (five).
+
+The sentence now begins and ends with players' names, highlighting the three-player comparison, and it answers an initial **more than** with the parallel **fewer only than**, driving home both comparisons simultaneously. In its modest way, the revised sentence employs the same strategy as many of Lincoln's, that of expressing coordinate ideas in similar grammatical form. (For more on this strategy, including some additional commonplace examples, see [Strunk](http://www.bartleby.com/141/strunk.html#15).)
+
+The revision, incidentally, cuts the number of prepositions by two-thirds (from 6 to 2) and the total number of words by almost one-fifth [(Lard Factor]({{ site.baseurl}}/principles/lucidity-simplicity-directness#lardfactor) = 6÷32 or 19%). As is generally the case, the aesthetically superior sentence is also clearer and more economical.

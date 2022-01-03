@@ -43,10 +43,10 @@ Expert writers avoid "experteese." Why adopt a new "methodology" when a new "met
 
 George Orwell's 1946 essay ["Politics and the English Language"](http://www.resort.com/~prime8/Orwell/patee.html) remains one of the best critiques of the modern bureaucratic/academic prose style. (Richard Lanham calls it the "Official Style."). Orwell erroneously thought that he was witnessing the "decay" of English as a language. As any linguist will tell you, a language can't decay. On the other hand, a bad writer can certainly strangle the life from a sentence. Orwell, however misguided about linguistics, correctly recognized that the typical English of officialdom is pallid and bloated; and he identified both the reasons for and the darker consequences of this dead, and deadening, style of writing. Here's an excerpt from his essay.
 
-> ### From George Orwell's "Politics and the English Language"
->
+### From George Orwell's "Politics and the English Language"
+
 > I am going to translate a passage of good English into modern English of the worst sort. Here is a well-known verse from Ecclesiastes:
->
+
 > > I returned and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 >
 > Here it is in modern English:

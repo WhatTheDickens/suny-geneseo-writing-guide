@@ -71,53 +71,53 @@ Read through *The Guide* carefully, and you will find it has been used now and t
 
 Not many people know the difference between a restrictive and a nonrestrictive element, and thus if our purpose here were to explain the difference merely in order to explode a myth few even understand, we would be wasting our time. Hopefully (you may be thinking), they have an additional purpose. Fortunately, we do.
 
-> ### Definitions: Restrictive and Nonrestrictive
->
-> A restrictive element narrows the meaning of the word or phrase it modifies. Take the sentence,
->
-> > \(1\) The goldfish which I bought you on Tuesday has died.
->
-> Here the clause **which I bought you on Tuesday** picks out a particular goldfish, distinguishing it from other goldfish that the writer might have bought on Monday, Wednesday, or Thursday. The situation is different with
->
-> > \(2\) The goldfish, which I bought you on Tuesday, has died.
->
-> Here the writer assumes that the reader knows which goldfish is meant, and the clause **which I bought you on Tuesday** simply contributes additional information. If the clause were struck from the sentence, the meaning would remain unaltered.
->
-> The difference may seem too subtle to care about. But consider the following two sentences:
->
-> > \(3\) Philandering presidents who abuse their office should be impeached.  
-> > (4) Philandering presidents, who abuse their office, should be impeached.
->
-> The writer of (3) only wishes to impeach *some* philandering presidents&mdash;those who abuse their office. This writer believes either that philandering doesn't constitute an abuse of office, or, more likely, that only particular kinds of philandering do so. On the other hand, the writer of (4) clearly sees philandering as an abuse in itself and sufficient cause for impeachment. This writer asserts that *all* philandering presidents should be impeached. Removing the four words **who abuse their office** would radically alter the meaning of (3); it would diminish the information offered in (4) without affecting the essential meaning.
->
-> ### The Myth Considered
->
-> Now back to the myth. In the interest of clarity, there are those who would like to reserve *that* for restrictive elements and *which* for nonrestrictive. The idea has some merit. It sounds distinctly odd when writers use *that* for nonrestrictive clauses:
->
-> > \(5\) The goldfish, that I bought you on Tuesday, has died.
->
-> The question, however, is whether a writer should be compelled to rewrite (1) thus:
->
-> > \(6\) The goldfish that I bought you on Tuesday has died.
->
-> Use of nonrestrictive *that,* as in (5), is not widespread; however, use of restrictive *which,* as in (1), is common, and therefore to insist on substituting (6) for (1) would be foolhardy without first considering whether such insistence (a) serves a useful purpose and (b) places an undue burden on writers.
->
-> Does the prohibition of restrictive *which* serve a useful purpose? In (2) and (4), you'll notice that the nonrestrictive element is surrounded by commas. **Commas are the simplest, most effective way to indicate a nonrestrictive element**, and the reader who can trust a writer to use them properly needs no guidance from the choice of pronouns. In fact, commas are the only available guide in (4), where pronoun choice is not an option.
->
-> Does the prohibition place an undue burden on writers? The writer who must adhere to the *that/which* distinction loses a useful means of avoiding awkward repetition. Compare:
->
-> > \(7\) That was the weapon that did the damage.  
-> > (8) That was the weapon which did the damage.
->
-> The writer of (8) escapes using *that* twice in a short span. In this example, once again, the difference may appear minuscule. But imagine not being able to write
->
-> > \(9\) That which lives must die.
->
-> ### Our Positions
->
+### Definitions: Restrictive and Nonrestrictive
+
+A restrictive element narrows the meaning of the word or phrase it modifies. Take the sentence,
+
+> \(1\) The goldfish which I bought you on Tuesday has died.
+
+Here the clause **which I bought you on Tuesday** picks out a particular goldfish, distinguishing it from other goldfish that the writer might have bought on Monday, Wednesday, or Thursday. The situation is different with
+
+> \(2\) The goldfish, which I bought you on Tuesday, has died.
+
+Here the writer assumes that the reader knows which goldfish is meant, and the clause **which I bought you on Tuesday** simply contributes additional information. If the clause were struck from the sentence, the meaning would remain unaltered.
+
+The difference may seem too subtle to care about. But consider the following two sentences:
+
+> \(3\) Philandering presidents who abuse their office should be impeached.  
+> (4) Philandering presidents, who abuse their office, should be impeached.
+
+The writer of (3) only wishes to impeach *some* philandering presidents&mdash;those who abuse their office. This writer believes either that philandering doesn't constitute an abuse of office, or, more likely, that only particular kinds of philandering do so. On the other hand, the writer of (4) clearly sees philandering as an abuse in itself and sufficient cause for impeachment. This writer asserts that *all* philandering presidents should be impeached. Removing the four words **who abuse their office** would radically alter the meaning of (3); it would diminish the information offered in (4) without affecting the essential meaning.
+
+### The Myth Considered
+
+Now back to the myth. In the interest of clarity, there are those who would like to reserve *that* for restrictive elements and *which* for nonrestrictive. The idea has some merit. It sounds distinctly odd when writers use *that* for nonrestrictive clauses:
+
+> \(5\) The goldfish, that I bought you on Tuesday, has died.
+
+The question, however, is whether a writer should be compelled to rewrite (1) thus:
+
+> \(6\) The goldfish that I bought you on Tuesday has died.
+
+Use of nonrestrictive *that,* as in (5), is not widespread; however, use of restrictive *which,* as in (1), is common, and therefore to insist on substituting (6) for (1) would be foolhardy without first considering whether such insistence (a) serves a useful purpose and (b) places an undue burden on writers.
+
+Does the prohibition of restrictive *which* serve a useful purpose? In (2) and (4), you'll notice that the nonrestrictive element is surrounded by commas. **Commas are the simplest, most effective way to indicate a nonrestrictive element**, and the reader who can trust a writer to use them properly needs no guidance from the choice of pronouns. In fact, commas are the only available guide in (4), where pronoun choice is not an option.
+
+Does the prohibition place an undue burden on writers? The writer who must adhere to the *that/which* distinction loses a useful means of avoiding awkward repetition. Compare:
+
+> \(7\) That was the weapon that did the damage.  
+> (8) That was the weapon which did the damage.
+
+The writer of (8) escapes using *that* twice in a short span. In this example, once again, the difference may appear minuscule. But imagine not being able to write
+
+> \(9\) That which lives must die.
+
+### Our Positions
+
 > To bring this long discussion to a close, we take the following positions:
->
-> -   Good writers may use either *that* or *which* for restrictive elements.
-> -   Good writers should not use *that* for nonrestrictive elements, as in (5).
-> -   Good writers use a comma or commas to indicate a nonrestrictive element.
-> -   Philandering presidents who abuse their office should be impeached.
+
+-   Good writers may use either *that* or *which* for restrictive elements.
+-   Good writers should not use *that* for nonrestrictive elements, as in (5).
+-   Good writers use a comma or commas to indicate a nonrestrictive element.
+-   Philandering presidents who abuse their office should be impeached.

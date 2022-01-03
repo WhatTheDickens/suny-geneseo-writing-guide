@@ -68,4 +68,4 @@ So much confusion surrounds the concept of "good grammar" that a few important p
 
 ## Common errors of usage, style, spelling, and punctuation
 
-This section of *The Guide* has moved to the [wiki.](http://wiki.geneseo.edu/x/AgC6Ag)
+This section of *The Guide* has moved to the [Geneseo wiki](http://wiki.geneseo.edu/x/AgC6Ag).
