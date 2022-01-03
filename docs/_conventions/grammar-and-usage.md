@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Grammar and usage"
+title: "Grammar and Usage"
 ---
 
 This page covers the following topics:

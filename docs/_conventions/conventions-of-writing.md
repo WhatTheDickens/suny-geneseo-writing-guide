@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conventions of writing"
+title: "Conventions of Writing"
 ---
 
 The human capacity for language has its roots in nature. The combination of physical and cognitive resources necessary to the production and comprehension of symbolic utterance is a result&mdash;and perhaps the defining acquisition&mdash;of our unique evolutionary history. The biological basis of our ability to speak and write has led a small number of scholars&mdash;such as the cognitive scientist Steven Pinker&mdash;to argue that humans are born not only with an innate capacity for language but with innate linguistic knowledge&mdash;that they are, as it were, prewired with the basic principles of a universal grammar. It seems more plausible to suppose, however, that although the human capacity for language arises from nature, particular languages, and their particular uses, are largely the product of culture.

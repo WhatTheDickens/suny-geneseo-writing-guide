@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is good writing?"
+title: "What is Good Writing?"
 ---
 
 *That is the reason why I affirm that Kurtz was a remarkable man. He had something to say. He said it.*  

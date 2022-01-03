@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Formal and informal writing"
+title: "Formal and Informal Writing"
 ---
 
 *Men living in democratic ages do not readily comprehend the utility of forms; they feel an instinctive contempt for them.*  

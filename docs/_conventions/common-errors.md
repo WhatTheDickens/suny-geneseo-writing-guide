@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Common composition errors"
+title: "Common Composition Errors"
 ---
 
 *"You know I'm awfully in love with you, Henry. I've meant everything I've said*.&hellip;*You won't ever let anything or anyone come between us?"*  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Care and imagination"
+title: "Care and Imagination"
 ---
 
 Your professors don't expect you to have the eloquence of William Shakespeare or Virginia Woolf; they do expect to see evidence that you've treated writing as a craft rather than a chore. Well crafted prose is not only clearer but also more forceful, more memorable, and more enjoyable than its opposite. Some writers suppose that these qualities matter only in writing for the humanities, as if the scientific ideal of objectivity entailed an obligation to be dull and flat. That attitude would have come as a surprise to Charles Darwin (look at the masterful, if not thoroughly grammatical, final paragraph of [*On the Origin of Species*](http://www.literature.org/authors/darwin-charles/the-origin-of-the-species/chapter-14.html)) or to Albert Einstein, who felt no conflict between truth and metaphor when he said, famously, that God does not play dice with the universe. An exhaustive treatment of the writer's craft is beyond the scope of this guide. The best general advice we can offer is that you read good writers and notice the things they do with words. Nevertheless, here are four observations to help you start thinking about writing as a craft.

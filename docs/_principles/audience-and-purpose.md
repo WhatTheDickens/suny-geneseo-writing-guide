@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Audience and purpose"
+title: "Audience and Purpose"
 ---
 
 "What will I say?" is probably the most important&mdash;and the most challenging&mdash;question that any writer faces. But other questions, too, demand an answer. For whom am I writing? For what purpose? Your answers to questions about audience and purpose will influence every choice that you make in writing, from organization to tone to diction to citation style.

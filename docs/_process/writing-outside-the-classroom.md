@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Writing outside the classroom"
+title: "Writing Outside the Classroom"
 ---
 
 Take out a clean sheet of paper and write, one hundred times, "I will not begin an essay the night before it is due." Then read the rest of this section.

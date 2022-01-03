@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Writing essay exams"
+title: "Writing Essay Exams"
 ---
 
 *He that runs against Time, has an antagonist not subject to casualties.*  

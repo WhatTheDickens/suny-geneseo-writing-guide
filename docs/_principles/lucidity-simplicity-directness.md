@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lucidity, simplicity, directness"
+title: "Lucidity, Simplicity, Directness"
 ---
 
 "Vigorous writing," wrote William Strunk, Jr. in the first (1918) edition of that now classic manual, *[The Elements of Style,](http://www.bartleby.com/141/index.html)* "is concise." He continued:

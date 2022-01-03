@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Myths about good writing"
+title: "Myths About Good Writing"
 ---
 
 You may have been taught to follow one or more of the rules below by a well-intentioned but misinformed teacher in your past. We regard these rules as myths, in most cases because they both run contrary to the practice of excellent writers and are based on false linguistic assumptions.

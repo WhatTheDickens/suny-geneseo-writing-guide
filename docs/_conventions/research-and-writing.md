@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research and writing"
+title: "Research and Writing"
 ---
 
 The meaning of the term *research* is not the same for all academic disciplines. Nor do the various disciplines adhere to one set of conventions for using and referring to research in written work. If you are expected to incorporate research in a writing assignment, you should begin by visiting the [Writing in a Discipline]({{ site.baseurl }}/conventions/writing-in-a-discipline) page of *The Guide,* or by selecting the department of your professor from the drop down list in the navigation bar at left.
